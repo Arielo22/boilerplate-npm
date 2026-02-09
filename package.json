@@ -3,6 +3,8 @@
 	"author": "Ariel Cabrera",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "freeCodeCamp" ],
+	"license": "MIT",
+
 
 	"dependencies": {
 		"express": "^4.14.0"
